@@ -1,5 +1,5 @@
 // Nama : Fahrul Muhammad Neor
-// exercise 5 week 4 phase 0
+// exercise 4 week 4 phase 0
 
 function cariModus(arr) {
     // you can only write your code here!

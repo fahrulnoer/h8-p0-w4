@@ -1,16 +1,16 @@
 // Nama : Fahrul Muhammad Neor
-// exercise 4 week 4 phase 0
+// exercise 5 week 4 phase 0
 
 function ubahHuruf(kata) {
     // you can only write your code here!
-    var alphabet = 'abcdefghijklmnopqrstuvwxyz';
-    var result = '';
+    var alphabet = 'abcdefghijklmnopqrstuvwxyz'
+    var result = ''
     for(i = 0 ; i < kata.length ; i++){
-        var index = alphabet.indexOf(kata[i]);
-        index += 1;
-        result = result + alphabet[index];
+        var index = alphabet.indexOf(kata[i])
+        index += 1
+        result = result + alphabet[index]
     }
-    return result;
+    return result
   }
   
   // TEST CASES

@@ -4,17 +4,17 @@
 function angkaPrima(angka) {
     // you can only write your code here!
     if (angka === 1) {
-        return false;
+        return false
     }
     else if(angka === 2) {
-        return true;
+        return true
     } else {
         for(var i = 2; i < angka; i++) {
             if(angka % i === 0) {
-                return false;
+                return false
             }
         }
-    return true;  
+    return true
     }
 }
   
