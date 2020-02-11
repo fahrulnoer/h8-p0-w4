@@ -3,13 +3,13 @@
 
 function fpb(angka1, angka2) {
     // you can only write your code here!
-    var factor = []
+    var result = []
     for (var i = 0; i < angka1 ; i++) {
         if (angka1 % i === 0 && angka2 % i === 0) {
-            factor.push(i)
+            result.push(i)
         }
     }
-    return factor[factor.length-1]
+    return result[result.length-1]
 }
   
   // TEST CASES
