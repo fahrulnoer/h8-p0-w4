@@ -12,7 +12,7 @@ function checkAB(num) {
             checkB = i
         }
     }
-    console.log(checkA, checkB)
+    // console.log(checkA, checkB)
     if (checkB.length === 0 || checkA.length === 0) {
         return false
     } else if (checkA - checkB  === 4|| checkB - checkA === 4) {

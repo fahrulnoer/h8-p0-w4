@@ -5,7 +5,7 @@ Hacktiv8 Phase 0 Week 4: Logics in JavaScript
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-angka-prima.md) 
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-1.js)
 
-## Task 2 
+## Task 2 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-faktor-persekutuan-terbesar.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-2.js)
 
@@ -17,35 +17,35 @@ Hacktiv8 Phase 0 Week 4: Logics in JavaScript
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-cari-modus.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-4.js)
 
-## Task 5 
+## Task 5 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-ubah-huruf.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-5.js)
 
-## Task 6 
+## Task 6 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-digit-perkalian-minimum.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-6.js)
   
-## Task 7 
+## Task 7 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-urutkan-abjad.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-7.js)
 
-## Task 8 
+## Task 8 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-tukar-besar-kecil.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-8.js)
 
-## Task 9 
+## Task 9 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-cek-ab.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-9.js)
 
-## Task 10 
+## Task 10 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-object-literal.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-10.js)
 
-## Task 11 
+## Task 11 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-shopping-time.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-11.js)
 
-## Task 12 
+## Task 12 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-toko-x.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-12.js)
 

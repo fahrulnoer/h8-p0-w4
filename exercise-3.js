@@ -5,10 +5,10 @@ function cariMedian(arr) {
     // you can only write your code here!
     for (var i = 0 ; i < arr.length ; i++) {
         if(arr.length % 2 === 1){
-            return arr[(arr.length-1)/2]
+            return arr[(arr.length - 1) / 2]
         } else if (arr.length % 2 === 0) {
             var n = arr.length / 2
-            return (arr[n-1] + arr[n])/2
+            return (arr[n - 1] + arr[n]) / 2
         }
     }
     return

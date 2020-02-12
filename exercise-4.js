@@ -3,19 +3,17 @@
 
 function cariModus(arr) {
     // you can only write your code here!
-    var mode = 0;
-    var count = 0;
+    var result = 0
     for(i = 0; i < arr.length; i++) {
         for(j = 0; j < i; j++){
             if(arr[j] === arr[i]) {
-                mode = arr[j];
-                count++;
-            }else if(arr[j] === 1) {
+                result = arr[j]
+            }else if(arr[j] <= 1 ) {
                 return -1
-            }
+            } 
         }
     }
-    return mode;
+    return result
 }
   
   // TEST CASES
