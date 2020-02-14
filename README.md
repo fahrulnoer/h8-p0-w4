@@ -9,11 +9,11 @@ Hacktiv8 Phase 0 Week 4: Logics in JavaScript
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-faktor-persekutuan-terbesar.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-2.js)
 
-## Task 3 
+## Task 3 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-cari-median.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-3.js)
 
-## Task 4 
+## Task 4 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-cari-modus.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-4.js)
 
@@ -49,18 +49,18 @@ Hacktiv8 Phase 0 Week 4: Logics in JavaScript
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-toko-x.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-12.js)
 
-## Task 13 
+## Task 13 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-deep-sum.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-13.js)
 
-## Task 14 
+## Task 14 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-naik-angkot.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-14.js)
 
-## Task 15 
+## Task 15 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-highest-score.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-15.js)
 
-## Task 16 
+## Task 16 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-graduates.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w4/blob/master/exercise-16.js)
