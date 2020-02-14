@@ -6,12 +6,16 @@ function ubahHuruf(kata) {
     var alphabet = 'abcdefghijklmnopqrstuvwxyz'
     var result = ''
     for(i = 0 ; i < kata.length ; i++){
-        var index = alphabet.indexOf(kata[i])
-        index += 1
-        result = result + alphabet[index]
+        for(var j = 0; j < alphabet.length; j++){
+            if(kata[i] === alphabet[j]){
+              result += alphabet[j + 1]
+            } else if (kata[i] === 'z'){
+                result += 'a'
+            }
+        }
     }
     return result
-  }
+}
   
   // TEST CASES
   console.log(ubahHuruf('wow')); // xpx

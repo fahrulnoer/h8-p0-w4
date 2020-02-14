@@ -3,17 +3,35 @@
 
 function cariModus(arr) {
     // you can only write your code here!
-    var result = 0
-    for(i = 0; i < arr.length; i++) {
-        for(j = 0; j < i; j++){
-            if(arr[j] === arr[i]) {
-                result = arr[j]
-            }else if(arr[j] <= 1 ) {
-                return -1
-            } 
+    var result = []
+    var frequen = []
+    for (var i = 0; i < arr.length; i++) {
+        var check = false
+        for (var j = 0; j < result.length; j++) {
+            if (arr[i] === result[j]){
+                check = true
+                frequen[j]++
+            }
+        }
+        if (check == false){
+            result.push(arr[i])
+            frequen.push(1)
         }
     }
-    return result
+    
+    if (result.length == 1 || arr.length == result.length){
+        return -1
+    }
+
+    var num = 0
+    var index = 0
+    for (var k = 0; k < frequen.length; k++) {
+        if (num < frequen[k]){
+            num = frequen[k]
+            index = k
+        }
+    }
+    return result[index]
 }
   
   // TEST CASES

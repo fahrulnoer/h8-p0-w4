@@ -3,8 +3,19 @@
 
 function deepSum (arr) {
     // Code disini
-    
+  var result = 0
+  for (i = 0; i < arr.length; i++){
+      for (j = 0; j < arr[i].length; j++){
+          for (k = 0; k < arr[i][j].length; k++){
+              result += arr[i][j][k]
+          }
+      }
   }
+  if (arr.length === 0){
+      return 'No Number'
+  }
+  return result
+}
   
   //TEST CASE
   console.log(deepSum([

@@ -2,16 +2,25 @@
 // exercise 3 week 4 phase 0
 
 function cariMedian(arr) {
-    // you can only write your code here!
-    for (var i = 0 ; i < arr.length ; i++) {
-        if(arr.length % 2 === 1){
-            return arr[(arr.length - 1) / 2]
-        } else if (arr.length % 2 === 0) {
-            var n = arr.length / 2
-            return (arr[n - 1] + arr[n]) / 2
+    for(var i = 0; i < arr.length; i++){
+        for(var j=0; j < arr.length; j++){
+            if(arr[i] > arr [ i + 1 ]){
+                var temp = arr[i + 1];
+                arr[i + 1] = arr[i]
+                arr[i] = temp
+            }
         }
+
     }
-    return
+    if(arr.length % 2 == 0){
+        var n1 = arr.length / 2
+        var n2 = (arr.length / 2) - 1
+    
+        return (arr[n1]+arr[n2]) / 2
+    } else {
+        var n2 = (arr.length + 1 ) / 2 - 1
+        return arr[n2]
+    }
 }
   
   // TEST CASES
